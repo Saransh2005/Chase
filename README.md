@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saransh2005/Chase/tree/master/0002-add-two-numbers) |
+| [0172-factorial-trailing-zeroes](https://github.com/Saransh2005/Chase/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Saransh2005/Chase/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Saransh2005/Chase/tree/master/0507-perfect-number) |
 ## Recursion
