@@ -11,8 +11,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saransh2005/Chase/tree/master/0002-add-two-numbers) |
+| [0204-count-primes](https://github.com/Saransh2005/Chase/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saransh2005/Chase/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Saransh2005/Chase/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Saransh2005/Chase/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Saransh2005/Chase/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
