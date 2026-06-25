@@ -48,9 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saransh2005/Chase/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Saransh2005/Chase/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/Saransh2005/Chase/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Saransh2005/Chase/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Saransh2005/Chase/tree/master/0633-sum-of-square-numbers) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Saransh2005/Chase/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
