@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Saransh2005/Chase/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Saransh2005/Chase/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Saransh2005/Chase/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Saransh2005/Chase/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Saransh2005/Chase/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Saransh2005/Chase/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Saransh2005/Chase/tree/master/0633-sum-of-square-numbers) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saransh2005/Chase/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Saransh2005/Chase/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Saransh2005/Chase/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/Saransh2005/Chase/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saransh2005/Chase/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saransh2005/Chase/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Saransh2005/Chase/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/Saransh2005/Chase/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
