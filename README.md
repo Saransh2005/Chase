@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Saransh2005/Chase/tree/master/0204-count-primes) |
+| [0485-max-consecutive-ones](https://github.com/Saransh2005/Chase/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saransh2005/Chase/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saransh2005/Chase/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Enumeration
