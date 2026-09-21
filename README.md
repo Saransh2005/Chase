@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Saransh2005/Chase/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Saransh2005/Chase/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Saransh2005/Chase/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Saransh2005/Chase/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Saransh2005/Chase/tree/master/0485-max-consecutive-ones) |
 | [0875-koko-eating-bananas](https://github.com/Saransh2005/Chase/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saransh2005/Chase/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saransh2005/Chase/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Saransh2005/Chase/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Saransh2005/Chase/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Saransh2005/Chase/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Saransh2005/Chase/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
