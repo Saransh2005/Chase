@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Saransh2005/Chase/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Saransh2005/Chase/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Saransh2005/Chase/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Saransh2005/Chase/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Saransh2005/Chase/tree/master/0485-max-consecutive-ones) |
 | [0875-koko-eating-bananas](https://github.com/Saransh2005/Chase/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saransh2005/Chase/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Saransh2005/Chase/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Saransh2005/Chase/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Saransh2005/Chase/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Saransh2005/Chase/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Saransh2005/Chase/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Saransh2005/Chase/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saransh2005/Chase/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Saransh2005/Chase/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/Saransh2005/Chase/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Saransh2005/Chase/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Saransh2005/Chase/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saransh2005/Chase/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -83,12 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Saransh2005/Chase/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Saransh2005/Chase/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Saransh2005/Chase/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Saransh2005/Chase/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saransh2005/Chase/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Saransh2005/Chase/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Saransh2005/Chase/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Saransh2005/Chase/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
