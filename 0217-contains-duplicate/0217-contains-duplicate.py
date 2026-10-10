@@ -4,7 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        s = sorted(set(nums))
-        if len(s) != len(nums):
-            return True
+        d = {}
+        for i in range(0,len(nums)):
+            if nums[i] in d:
+                return True
+            d[nums[i]] = 1
         return False
